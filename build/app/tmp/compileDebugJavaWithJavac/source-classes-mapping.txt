@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/squareone_sam/BuildConfig.java
+ com.example.squareone_sam.BuildConfig
